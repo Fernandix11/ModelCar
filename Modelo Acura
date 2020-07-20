@@ -1,0 +1,123 @@
+{"Count":20,"Message":"Results returned successfully","SearchCriteria":"Marca:Acura","Results":
+[
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1101,
+		"Modelo_Nombre":"2.2CL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1102,
+		"Modelo_Nombre":"2.3CL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1103,
+		"Modelo_Nombre":"3.0CL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1104,
+		"Modelo_Nombre":"3.2CL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1105,
+		"Modelo_Nombre":"ILX"
+	},
+    {
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1106,
+		"Modelo_Nombre":"Integra"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1107,
+		"Modelo_Nombre":"Legend"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1108,
+		"Modelo_Nombre":"MDX"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1109,
+		"Modelo_Nombre":"NSX"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1110,
+		"Modelo_Nombre":"RDX"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1111,
+		"Modelo_Nombre":"3.5 RL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1112,
+		"Modelo_Nombre":"RL"
+	},
+    {
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1113,
+		"Modelo_Nombre":"RSX"
+	},
+    {
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1114,
+		"Modelo_Nombre":"SLX"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1115,
+		"Modelo_Nombre":"2.5TL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1116,
+		"Modelo_Nombre":"3.2TL"
+	},
+    {
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1117,
+		"Modelo_Nombre":"TL"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1118,
+		"Modelo_Nombre":"TSX"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1119,
+		"Modelo_Nombre":"Vigor"
+	},
+	{
+		"Marca_ID":100,
+		"Marca_Nombre": "Acura",
+		"Model_ID":1120,
+		"Modelo_Nombre":"ZDX"
+	}
+]
