@@ -252,7 +252,7 @@
 		"Marca_ID":200,
 		"Marca_Nombre": "Audi",
 		"Model_ID":2132,
-		"Modelo_Nombre":"V8 Quattro"
+		"Modelo_Nombre":"V8 Quattro",
 		"Precio_ID":20132,
 		"Precio":"745000"
 	}
