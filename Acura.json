@@ -1,124 +1,164 @@
-{"Count":20,"Message":"Results returned successfully","SearchCriteria":"Marca:Acura","Results":
+{"Count":20,"Message":"Results returned successfully","SearchCriteria":"Marca:Acura | Año:2020","Results":
 [
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1101,
-		"Modelo_Nombre":"2.2CL"
+		"Modelo_Nombre":"2.2CL",
+		"Precio_ID":10101,
+		"Precio":"150000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1102,
-		"Modelo_Nombre":"2.3CL"
+		"Modelo_Nombre":"2.3CL",
+		"Precio_ID":10102,
+		"Precio":"160000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1103,
-		"Modelo_Nombre":"3.0CL"
+		"Modelo_Nombre":"3.0CL",
+		"Precio_ID":10103,
+		"Precio":"175000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1104,
-		"Modelo_Nombre":"3.2CL"
+		"Modelo_Nombre":"3.2CL",
+		"Precio_ID":10104,
+		"Precio":"185000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1105,
-		"Modelo_Nombre":"ILX"
+		"Modelo_Nombre":"ILX",
+		"Precio_ID":10105,
+		"Precio":"205000"
 	},
-    	{
+    {
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1106,
-		"Modelo_Nombre":"Integra"
+		"Modelo_Nombre":"Integra",
+		"Precio_ID":10106,
+		"Precio":"225000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1107,
-		"Modelo_Nombre":"Legend"
+		"Modelo_Nombre":"Legend",
+		"Precio_ID":10107,
+		"Precio":"240000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1108,
-		"Modelo_Nombre":"MDX"
+		"Modelo_Nombre":"MDX",
+		"Precio_ID":10108,
+		"Precio":"255000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1109,
-		"Modelo_Nombre":"NSX"
+		"Modelo_Nombre":"NSX",
+		"Precio_ID":10109,
+		"Precio":"275000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1110,
-		"Modelo_Nombre":"RDX"
+		"Modelo_Nombre":"RDX",
+		"Precio_ID":10110,
+		"Precio":"295000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1111,
-		"Modelo_Nombre":"3.5 RL"
+		"Modelo_Nombre":"3.5 RL",
+		"Precio_ID":10111,
+		"Precio":"310000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1112,
-		"Modelo_Nombre":"RL"
+		"Modelo_Nombre":"RL",
+		"Precio_ID":10112,
+		"Precio":"330000"
 	},
-    	{
+    {
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1113,
-		"Modelo_Nombre":"RSX"
+		"Modelo_Nombre":"RSX",
+		"Precio_ID":10113,
+		"Precio":"345000"
 	},
-   	{
+    {
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1114,
-		"Modelo_Nombre":"SLX"
+		"Modelo_Nombre":"SLX",
+		"Precio_ID":10114,
+		"Precio":"365000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1115,
-		"Modelo_Nombre":"2.5TL"
+		"Modelo_Nombre":"2.5TL",
+		"Precio_ID":10115,
+		"Precio":"385000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1116,
-		"Modelo_Nombre":"3.2TL"
+		"Modelo_Nombre":"3.2TL",
+		"Precio_ID":10116,
+		"Precio":"400000"
 	},
-    	{
+    {
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1117,
-		"Modelo_Nombre":"TL"
+		"Modelo_Nombre":"TL",
+		"Precio_ID":10117,
+		"Precio":"440000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1118,
-		"Modelo_Nombre":"TSX"
+		"Modelo_Nombre":"TSX",
+		"Precio_ID":10118,
+		"Precio":"470000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1119,
-		"Modelo_Nombre":"Vigor"
+		"Modelo_Nombre":"Vigor",
+		"Precio_ID":10119,
+		"Precio":"495000"
 	},
 	{
 		"Marca_ID":100,
 		"Marca_Nombre": "Acura",
 		"Model_ID":1120,
-		"Modelo_Nombre":"ZDX"
+		"Modelo_Nombre":"ZDX",
+		"Precio_ID":10120,
+		"Precio":"535000"
 	}
 ]
 }
