@@ -1,0 +1,260 @@
+{"Count":32,"Message":"Results returned successfully","SearchCriteria":"Marca:Audi | Año:2020","Results":
+[
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2101,
+		"Modelo_Nombre":"100",
+		"Precio_ID":20101,
+		"Precio":"150000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2102,
+		"Modelo_Nombre":"200",
+		"Precio_ID":20102,
+		"Precio":"160000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2103,
+		"Modelo_Nombre":"4000",
+		"Precio_ID":20103,
+		"Precio":"175000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2104,
+		"Modelo_Nombre":"5000",
+		"Precio_ID":20104,
+		"Precio":"185000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2105,
+		"Modelo_Nombre":"80",
+		"Precio_ID":20105,
+		"Precio":"205000"
+	},
+    {
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2106,
+		"Modelo_Nombre":"90",
+		"Precio_ID":20106,
+		"Precio":"225000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2107,
+		"Modelo_Nombre":"A3",
+		"Precio_ID":20107,
+		"Precio":"240000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2108,
+		"Modelo_Nombre":"A4",
+		"Precio_ID":20108,
+		"Precio":"255000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2109,
+		"Modelo_Nombre":"A5",
+		"Precio_ID":20109,
+		"Precio":"275000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2110,
+		"Modelo_Nombre":A6",
+		"Precio_ID":20110,
+		"Precio":"295000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2111,
+		"Modelo_Nombre":"A7",
+		"Precio_ID":20111,
+		"Precio":"320000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2112,
+		"Modelo_Nombre":"A8",
+		"Precio_ID":20112,
+		"Precio":"330000"
+	},
+    {
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2113,
+		"Modelo_Nombre":"allroad",
+		"Precio_ID":20113,
+		"Precio":"345000"
+	},
+    {
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2114,
+		"Modelo_Nombre":"Cabriolet",
+		"Precio_ID":20114,
+		"Precio":"365000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2115,
+		"Modelo_Nombre":"Coupe",
+		"Precio_ID":20115,
+		"Precio":"385000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2116,
+		"Modelo_Nombre":"Q3",
+		"Precio_ID":20116,
+		"Precio":"400000"
+	},
+    {
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2117,
+		"Modelo_Nombre":"Q5",
+		"Precio_ID":20117,
+		"Precio":"440000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2118,
+		"Modelo_Nombre":"Q7",
+		"Precio_ID":20118,
+		"Precio":"470000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2119,
+		"Modelo_Nombre":"Quattro",
+		"Precio_ID":20119,
+		"Precio":"495000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2120,
+		"Modelo_Nombre":"R8",
+		"Precio_ID":20120,
+		"Precio":"535000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2121,
+		"Modelo_Nombre":"RS 4",
+		"Precio_ID":20121,
+		"Precio":"545000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2122,
+		"Modelo_Nombre":"RS 5",
+		"Precio_ID":20122,
+		"Precio":"565000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2123,
+		"Modelo_Nombre":"RS 6",
+		"Precio_ID":20123,
+		"Precio":"575000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2124,
+		"Modelo_Nombre":"S4",
+		"Precio_ID":20124,
+		"Precio":"595000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2125,
+		"Modelo_Nombre":"S5",
+		"Precio_ID":20125,
+		"Precio":"605000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2126,
+		"Modelo_Nombre":"S6",
+		"Precio_ID":20126,
+		"Precio":"625000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2127,
+		"Modelo_Nombre":"S7",
+		"Precio_ID":20127,
+		"Precio":"640000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2128,
+		"Modelo_Nombre":"S8",
+		"Precio_ID":20128,
+		"Precio":"680000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2129,
+		"Modelo_Nombre":"TT",
+		"Precio_ID":20129,
+		"Precio":"700000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2130,
+		"Modelo_Nombre":"TT RS",
+		"Precio_ID":20130,
+		"Precio":"715000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2131,
+		"Modelo_Nombre":"TTS",
+		"Precio_ID":20131,
+		"Precio":"725000"
+	},
+	{
+		"Marca_ID":200,
+		"Marca_Nombre": "Audi",
+		"Model_ID":2132,
+		"Modelo_Nombre":"V8 Quattro"
+		"Precio_ID":20132,
+		"Precio":"745000"
+	}
+]
+}
